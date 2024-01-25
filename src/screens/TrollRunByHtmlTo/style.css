@@ -1,0 +1,3100 @@
+.troll-run-by-html-to {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.troll-run-by-html-to .index {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.troll-run-by-html-to .overlap {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .section {
+  background-color: #000000;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .div-elementor {
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-widget {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .trollface-png {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  top: 10px;
+}
+
+.troll-run-by-html-to .div {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .nav-list-item-link {
+  height: 58px;
+  position: absolute;
+  width: 73px;
+}
+
+.troll-run-by-html-to .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.troll-run-by-html-to .div-wrapper {
+  height: 58px;
+  position: absolute;
+  width: 76px;
+}
+
+.troll-run-by-html-to .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-2 {
+  height: 58px;
+  position: absolute;
+  width: 138px;
+}
+
+.troll-run-by-html-to .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-3 {
+  height: 58px;
+  position: absolute;
+  width: 110px;
+}
+
+.troll-run-by-html-to .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-4 {
+  height: 58px;
+  position: absolute;
+  width: 97px;
+}
+
+.troll-run-by-html-to .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.troll-run-by-html-to .link-wrapper {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 40px;
+  left: 74px;
+  overflow: hidden;
+  position: relative;
+  top: 29px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  height: 27px;
+  left: 13px;
+  letter-spacing: 3px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.troll-run-by-html-to .section-wrapper {
+  background-color: #000000;
+  height: 628px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .section-2 {
+  height: 308px;
+  position: relative;
+  top: 160px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-2 {
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 616px;
+}
+
+.troll-run-by-html-to .heading {
+  left: 10px;
+  top: 56px;
+  width: 596px;
+}
+
+.troll-run-by-html-to .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 90px;
+  font-weight: 800;
+  height: 127px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 90px;
+  position: absolute;
+  top: -20px;
+  width: 344px;
+}
+
+.troll-run-by-html-to .heading-2 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.troll-run-by-html-to .heading-3 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 110px;
+  width: 596px;
+}
+
+.troll-run-by-html-to .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  height: 28px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 246px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 155px;
+  width: 596px;
+}
+
+.troll-run-by-html-to .link-2 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+  width: 165px;
+}
+
+.troll-run-by-html-to .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  height: 27px;
+  left: 29px;
+  letter-spacing: 3px;
+  line-height: 27px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.troll-run-by-html-to .heading-4 {
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 166px;
+  width: 596px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-4 {
+  height: 40px;
+  left: 10px;
+  position: absolute;
+  top: 211px;
+  width: 596px;
+}
+
+.troll-run-by-html-to .trollface-png-wrapper {
+  height: 308px;
+  left: 616px;
+  position: absolute;
+  top: 0;
+  width: 504px;
+}
+
+.troll-run-by-html-to .trollface-png-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 288px;
+  left: 78px;
+  position: relative;
+  top: 10px;
+  width: 347px;
+}
+
+.troll-run-by-html-to .section-3 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(160, 160, 160) 0%, rgb(255, 255, 255) 70%);
+  height: 717px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .heading-listed-in {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  height: 40px;
+  letter-spacing: 3px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 159px;
+  white-space: nowrap;
+  width: 836px;
+}
+
+.troll-run-by-html-to .section-4 {
+  height: 106px;
+  position: absolute;
+  top: 220px;
+  width: 1140px;
+}
+
+.troll-run-by-html-to .div-elementor-column {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-full-gate-io {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---full-gate-io-logo-1536x352-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 32px;
+  left: 25px;
+  position: relative;
+  top: 37px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-HTX-logo-wrapper {
+  height: 106px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-HTX-logo {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---htx-logo-e1705957924474-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .div-elementor-column-2 {
+  height: 106px;
+  left: 380px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---1-xxpjizoimoywt69edwqita-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 25px;
+  position: relative;
+  top: 34px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-full-lbank-logo-wrapper {
+  height: 106px;
+  left: 570px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-full-lbank-logo {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---full-lbank-logo-1536x291-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 25px;
+  position: relative;
+  top: 40px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .div-elementor-column-3 {
+  height: 106px;
+  left: 760px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---16450-6702b0f285393-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 41px;
+  left: 25px;
+  position: relative;
+  top: 32px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-full-bitmart-wrapper {
+  height: 106px;
+  left: 950px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-full-bitmart {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---full-bitmart-logo-1536x396-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  left: 25px;
+  position: relative;
+  top: 35px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .section-5 {
+  height: 120px;
+  position: absolute;
+  top: 326px;
+  width: 1140px;
+}
+
+.troll-run-by-html-to .div-elementor-column-4 {
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-5 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---f9c66e7dd1c6e518ba49b8a037a386c2-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 25px;
+  position: relative;
+  top: 41px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-screenshot-wrapper {
+  height: 120px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-screenshot {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---screenshot-2-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 25px;
+  position: relative;
+  top: 40px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .div-elementor-column-5 {
+  height: 120px;
+  left: 380px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-screenshot-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---screenshot-3-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 25px;
+  position: relative;
+  top: 42px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-ac-wrapper {
+  height: 120px;
+  left: 570px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-ac {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---0a27c-1-zwfoeuqhsnxudcesnr6la-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 25px;
+  position: relative;
+  top: 49px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-review-wrapper {
+  height: 120px;
+  left: 760px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-review {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---review-c0fd20ac-795f-4d10-afd3-189660698534-image-0-85396@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 70px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .link-download-wrapper {
+  height: 120px;
+  left: 950px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.troll-run-by-html-to .link-download {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---download-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 25px;
+  position: relative;
+  top: 41px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .section-6 {
+  height: 111px;
+  position: absolute;
+  top: 446px;
+  width: 1380px;
+}
+
+.troll-run-by-html-to .link-bitrue-logo-wrapper {
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-bitrue-logo {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---bitrue-logo-1-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 25px;
+  position: relative;
+  top: 36px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .link-full-poloniex-wrapper {
+  height: 111px;
+  left: 172px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-full-poloniex {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---full-poloniex-logo-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 25px;
+  position: relative;
+  top: 37px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .div-elementor-column-6 {
+  height: 111px;
+  left: 345px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-screenshot-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---screenshot-2-removebg-preview-2-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 25px;
+  position: relative;
+  top: 40px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .link-images-removebg-wrapper {
+  height: 111px;
+  left: 518px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-images-removebg {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---images-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 25px;
+  position: relative;
+  top: 46px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .link-full-tapbit-wrapper {
+  height: 111px;
+  left: 690px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-full-tapbit {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---full-tapbit-logo-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  left: 25px;
+  position: relative;
+  top: 33px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .div-elementor-column-7 {
+  height: 111px;
+  left: 862px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-6 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---1-mklrvwquoktlm08i6l8x6q-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 61px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .div-elementor-column-8 {
+  height: 111px;
+  left: 1035px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-screenshot-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---screenshot-3-removebg-preview-1-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 39px;
+  left: 25px;
+  position: relative;
+  top: 36px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .link-digifinex-svg-wrapper {
+  height: 111px;
+  left: 1208px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.troll-run-by-html-to .link-digifinex-svg {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---digifinex-svg-1536x280-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 25px;
+  position: relative;
+  top: 46px;
+  width: 122px;
+}
+
+.troll-run-by-html-to .section-7 {
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .img {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-2 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 738px;
+}
+
+.troll-run-by-html-to .div-elementor-2 {
+  height: 597px;
+  position: absolute;
+  top: 100px;
+  width: 1140px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-5 {
+  height: 597px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.troll-run-by-html-to .div-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/a84eca7b65b0afcc6c17ffcaa2b23ee4-jpg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 577px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 550px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-6 {
+  height: 597px;
+  left: 570px;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.troll-run-by-html-to .heading-5 {
+  position: absolute;
+  top: 10px;
+}
+
+.troll-run-by-html-to .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 80px;
+  font-weight: 800;
+  height: 113px;
+  left: 110px;
+  letter-spacing: 3px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: -18px;
+  width: 331px;
+}
+
+.troll-run-by-html-to .heading-6 {
+  height: 80px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 550px;
+}
+
+.troll-run-by-html-to .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 80px;
+  font-weight: 800;
+  height: 113px;
+  left: 110px;
+  letter-spacing: 3px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: -57px;
+  width: 331px;
+}
+
+.troll-run-by-html-to .TROLL-COIN-is-a-wrapper {
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 522px;
+}
+
+.troll-run-by-html-to .TROLL-COIN-is-a {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 228px;
+  left: 1px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: 16px;
+  width: 521px;
+}
+
+.troll-run-by-html-to .heading-7 {
+  height: 225px;
+  left: 10px;
+  position: absolute;
+  top: 110px;
+  width: 550px;
+}
+
+.troll-run-by-html-to .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24.6px;
+  font-weight: 700;
+  height: 228px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  top: -3px;
+  width: 521px;
+}
+
+.troll-run-by-html-to .screenshot-png {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/screenshot-7-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 163px;
+  left: 10px;
+  position: absolute;
+  top: 355px;
+  width: 550px;
+}
+
+.troll-run-by-html-to .div-elementor-3 {
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-widget-7 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .trollface-png-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .link-7 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 40px;
+  left: 228px;
+  overflow: hidden;
+  position: absolute;
+  top: 37px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-8 {
+  height: 78px;
+  left: 205px;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-5 {
+  height: 58px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 73px;
+}
+
+.troll-run-by-html-to .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-6 {
+  height: 58px;
+  left: 103px;
+  position: absolute;
+  top: 10px;
+  width: 76px;
+}
+
+.troll-run-by-html-to .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-7 {
+  height: 58px;
+  left: 198px;
+  position: absolute;
+  top: 10px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-8 {
+  height: 58px;
+  left: 356px;
+  position: absolute;
+  top: 10px;
+  width: 110px;
+}
+
+.troll-run-by-html-to .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.troll-run-by-html-to .nav-list-item-link-9 {
+  height: 58px;
+  left: 485px;
+  position: absolute;
+  top: 10px;
+  width: 97px;
+}
+
+.troll-run-by-html-to .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  height: 23px;
+  left: 7px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-9 {
+  height: 78px;
+  left: 812px;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.troll-run-by-html-to .link-8 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 40px;
+  left: 21px;
+  overflow: hidden;
+  position: relative;
+  top: 19px;
+  width: 140px;
+}
+
+.troll-run-by-html-to .section-8 {
+  background-color: #000000;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .section-9 {
+  left: 10px;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-widget-10 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .heading-8 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 532px;
+}
+
+.troll-run-by-html-to .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 90px;
+  font-weight: 800;
+  height: 127px;
+  left: 94px;
+  letter-spacing: 3px;
+  line-height: 90px;
+  position: absolute;
+  text-align: center;
+  top: -20px;
+  width: 344px;
+}
+
+.troll-run-by-html-to .heading-9 {
+  height: 28px;
+  left: 143px;
+  position: absolute;
+  top: 108px;
+  width: 246px;
+}
+
+.troll-run-by-html-to .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  height: 28px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 246px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-11 {
+  height: 41px;
+  left: 183px;
+  position: absolute;
+  top: 155px;
+  width: 166px;
+}
+
+.troll-run-by-html-to .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 75px;
+  font-weight: 800;
+  height: 106px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.troll-run-by-html-to .heading-10 {
+  height: 28px;
+  left: 63px;
+  position: absolute;
+  top: 103px;
+  width: 246px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-12 {
+  height: 41px;
+  left: 102px;
+  position: absolute;
+  top: 150px;
+  width: 166px;
+}
+
+.troll-run-by-html-to .link-9 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 40px;
+  left: 1px;
+  overflow: hidden;
+  position: relative;
+  width: 165px;
+}
+
+.troll-run-by-html-to .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  height: 27px;
+  left: 29px;
+  letter-spacing: 3px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-13 {
+  height: 308px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .trollface-png-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 288px;
+  position: relative;
+  top: 10px;
+  width: 347px;
+}
+
+.troll-run-by-html-to .heading-HOW-TO-BUY {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 800;
+  height: 50px;
+  letter-spacing: 3px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.troll-run-by-html-to .div-elementor-wrapper {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 191px;
+  position: absolute;
+  top: 150px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .div-elementor-4 {
+  height: 158px;
+  left: 17px;
+  position: relative;
+  top: 17px;
+  width: 1087px;
+}
+
+.troll-run-by-html-to .untitled-design-wrapper {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.troll-run-by-html-to .untitled-design {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/untitled-design-2023-03-30t212906-738-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  left: 57px;
+  position: relative;
+  top: 10px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-14 {
+  height: 158px;
+  left: 252px;
+  position: absolute;
+  top: 0;
+  width: 834px;
+}
+
+.troll-run-by-html-to .heading-11 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 21px;
+  width: 814px;
+}
+
+.troll-run-by-html-to .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+  width: 298px;
+}
+
+.troll-run-by-html-to .download-metamask-or-wrapper {
+  height: 66px;
+  left: 10px;
+  position: absolute;
+  top: 71px;
+  width: 814px;
+}
+
+.troll-run-by-html-to .download-metamask-or {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  height: 69px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+  width: 804px;
+}
+
+.troll-run-by-html-to .section-10 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 191px;
+  position: absolute;
+  top: 381px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .untitled-design-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/untitled-design-2023-03-30t213620-680-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  left: 57px;
+  position: relative;
+  top: 10px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .heading-12 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 814px;
+}
+
+.troll-run-by-html-to .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+  width: 275px;
+}
+
+.troll-run-by-html-to .have-BNB-in-your-wrapper {
+  height: 88px;
+  left: 10px;
+  position: absolute;
+  top: 60px;
+  width: 814px;
+}
+
+.troll-run-by-html-to .have-BNB-in-your {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20.8px;
+  font-weight: 400;
+  height: 91px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+  width: 801px;
+}
+
+.troll-run-by-html-to .section-11 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 213px;
+  position: absolute;
+  top: 613px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .div-elementor-5 {
+  height: 180px;
+  left: 17px;
+  position: relative;
+  top: 17px;
+  width: 1087px;
+}
+
+.troll-run-by-html-to .uniswap-webp-wrapper {
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.troll-run-by-html-to .uniswap-webp {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/uniswap-2-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  left: 57px;
+  position: relative;
+  top: 21px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-15 {
+  height: 180px;
+  left: 252px;
+  position: absolute;
+  top: 0;
+  width: 834px;
+}
+
+.troll-run-by-html-to .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .connect-to-wrapper {
+  left: 10px;
+  position: absolute;
+  width: 814px;
+}
+
+.troll-run-by-html-to .connect-to {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  height: 113px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  width: 814px;
+}
+
+.troll-run-by-html-to .section-12 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 169px;
+  position: absolute;
+  top: 866px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .div-elementor-6 {
+  height: 136px;
+  left: 17px;
+  position: relative;
+  top: 17px;
+  width: 1087px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-16 {
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.troll-run-by-html-to .trollface-png-5 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 116px;
+  left: 56px;
+  position: relative;
+  top: 10px;
+  width: 139px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-17 {
+  height: 136px;
+  left: 252px;
+  position: absolute;
+  top: 0;
+  width: 834px;
+}
+
+.troll-run-by-html-to .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+  width: 390px;
+}
+
+.troll-run-by-html-to .switch-BNB-for-TROLL-wrapper {
+  height: 66px;
+  left: 10px;
+  position: absolute;
+  top: 60px;
+  width: 814px;
+}
+
+.troll-run-by-html-to .switch-BNB-for-TROLL {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  height: 69px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+  width: 794px;
+}
+
+.troll-run-by-html-to .section-13 {
+  background-color: #ffffff;
+  height: 677px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-4 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 618px;
+}
+
+.troll-run-by-html-to .heading-TOKENOMICS {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 800;
+  height: 50px;
+  letter-spacing: 3px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: 409px;
+}
+
+.troll-run-by-html-to .section-14 {
+  background-color: #000000;
+  border: 1px solid;
+  height: 387px;
+  position: absolute;
+  top: 180px;
+  width: 1120px;
+}
+
+.troll-run-by-html-to .div-elementor-7 {
+  height: 384px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 1117px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-18 {
+  height: 384px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 558px;
+}
+
+.troll-run-by-html-to .heading-13 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 102px;
+  width: 518px;
+}
+
+.troll-run-by-html-to .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 132px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 255px;
+}
+
+.troll-run-by-html-to .heading-14 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 152px;
+  width: 518px;
+}
+
+.troll-run-by-html-to .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 25.5px;
+  font-weight: 700;
+  height: 34px;
+  left: 89px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+  width: 341px;
+}
+
+.troll-run-by-html-to .heading-15 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 202px;
+  width: 518px;
+}
+
+.troll-run-by-html-to .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 184px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 151px;
+}
+
+.troll-run-by-html-to .heading-16 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 252px;
+  width: 518px;
+}
+
+.troll-run-by-html-to .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 63px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 393px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-wrapper {
+  height: 384px;
+  left: 558px;
+  position: absolute;
+  top: 0;
+  width: 558px;
+}
+
+.troll-run-by-html-to .troll-face-gif-wrapper {
+  background-color: #ffffff;
+  height: 324px;
+  left: 30px;
+  position: relative;
+  top: 30px;
+  width: 498px;
+}
+
+.troll-run-by-html-to .troll-face-gif {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/troll-face-44-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 324px;
+}
+
+.troll-run-by-html-to .overlap-wrapper {
+  background-color: #000000;
+  height: 689px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .overlap-group {
+  height: 689px;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-8 {
+  background-color: #000000;
+  height: 689px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .heading-ROADMAP {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 800;
+  height: 50px;
+  letter-spacing: 3px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+  width: 299px;
+}
+
+.troll-run-by-html-to .section-15 {
+  height: 166px;
+  position: absolute;
+  top: 130px;
+  width: 1140px;
+}
+
+.troll-run-by-html-to .dgzmk-fdd-wrapper {
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+
+.troll-run-by-html-to .dgzmk-fdd {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/dg1zm2k-71066fdd-7241-408d-8b65-34b0fe0373ec-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 146px;
+  left: 100px;
+  position: relative;
+  top: 10px;
+  width: 180px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-19 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 166px;
+  left: 380px;
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+
+.troll-run-by-html-to .heading-17 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 26px;
+  width: 357px;
+}
+
+.troll-run-by-html-to .text-wrapper-29 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24.8px;
+  font-weight: 500;
+  height: 28px;
+  left: 81px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.troll-run-by-html-to .heading-18 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 71px;
+  width: 357px;
+}
+
+.troll-run-by-html-to .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24.2px;
+  font-weight: 500;
+  height: 28px;
+  left: 5px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+  width: 347px;
+}
+
+.troll-run-by-html-to .heading-19 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 116px;
+  width: 357px;
+}
+
+.troll-run-by-html-to .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 23.6px;
+  font-weight: 500;
+  height: 28px;
+  left: 13px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-20 {
+  height: 166px;
+  left: 760px;
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+
+.troll-run-by-html-to .dgzmk-fdd-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/dg1zm2k-71066fdd-7241-408d-8b65-34b0fe0373ec-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 146px;
+  left: 100px;
+  position: relative;
+  top: 10px;
+  transform: rotate(180deg);
+  width: 180px;
+}
+
+.troll-run-by-html-to .section-16 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 312px;
+  position: absolute;
+  top: 306px;
+  width: 480px;
+}
+
+.troll-run-by-html-to .heading-20 {
+  height: 30px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 457px;
+}
+
+.troll-run-by-html-to .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  left: 155px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 148px;
+}
+
+.troll-run-by-html-to .list-item-strong-wrapper {
+  left: 46px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .list-item-strong {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 249px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  width: 342px;
+}
+
+.troll-run-by-html-to .section-17 {
+  background-color: #ffffff;
+  height: 671px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-5 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-6 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 612px;
+}
+
+.troll-run-by-html-to .heading-CONTACT {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  height: 40px;
+  letter-spacing: 3px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.troll-run-by-html-to .troll-face-gif-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/troll-face-44-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 291px;
+  position: absolute;
+  top: 170px;
+  width: 448px;
+}
+
+.troll-run-by-html-to .link-10 {
+  height: 80px;
+  position: absolute;
+  top: 481px;
+  width: 80px;
+}
+
+.troll-run-by-html-to .link-11 {
+  height: 80px;
+  position: absolute;
+  top: 481px;
+  width: 80px;
+}
+
+.troll-run-by-html-to .link-12 {
+  height: 80px;
+  position: absolute;
+  top: 481px;
+  width: 80px;
+}
+
+.troll-run-by-html-to .section-18 {
+  background-color: #000000;
+  height: 88px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-trollerc {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 18px;
+  letter-spacing: 3px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.troll-run-by-html-to .heading-by {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15.8px;
+  font-weight: 600;
+  height: 18px;
+  letter-spacing: 3px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+  width: 398px;
+}
+
+.troll-run-by-html-to .section-19 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(160, 160, 160) 0%, rgb(255, 255, 255) 70%);
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-7 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .heading-listed-in-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+}
+
+.troll-run-by-html-to .section-20 {
+  left: 10px;
+  position: absolute;
+  top: 220px;
+}
+
+.troll-run-by-html-to .link-full-gate-io-wrapper {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-full-gate-io-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-9 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-HTX-logo-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---htx-logo-e1705957924474-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-10 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-13 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-11 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-full-lbank-logo-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-12 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-14 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---16450-6702b0f285393-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-13 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-full-bitmart-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .section-21 {
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-column-14 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-15 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---f9c66e7dd1c6e518ba49b8a037a386c2-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-15 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-screenshot-5 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-16 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-screenshot-6 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-17 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-16 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .link-review-cfdac-wrapper {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-review-cfdac {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---review-c0fd20ac-795f-4d10-afd3-189660698534-image-0-85396@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-18 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-download-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---download-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .section-22 {
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-column-19 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-bitrue-logo-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---bitrue-logo-1-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-20 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-full-poloniex-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-21 {
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .link-screenshot-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-22 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-images-removebg-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---images-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-23 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-full-tapbit-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-24 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-17 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---1-mklrvwquoktlm08i6l8x6q-removebg-preview-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-25 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-screenshot-8 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/link---screenshot-3-removebg-preview-1-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-column-26 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-digifinex-svg-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .section-23 {
+  background-color: #ffffff;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-8 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-9 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-9 {
+  left: 0;
+  position: absolute;
+  top: 100px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-21 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .div-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/a84eca7b65b0afcc6c17ffcaa2b23ee4-jpg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 10px;
+  position: relative;
+  top: 10px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-22 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .overlap-group-2 {
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .text-wrapper-33 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+}
+
+.troll-run-by-html-to .heading-21 {
+  height: 266px;
+  left: 0;
+  position: absolute;
+  top: 106px;
+  width: 485px;
+}
+
+.troll-run-by-html-to .TROLL-COIN-is-a-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 228px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: 17px;
+  width: 485px;
+}
+
+.troll-run-by-html-to .heading-22 {
+  height: 199px;
+  left: 15px;
+  position: absolute;
+  top: 50px;
+  width: 360px;
+}
+
+.troll-run-by-html-to .TROLL-COIN-is-a-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 199px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  width: 360px;
+}
+
+.troll-run-by-html-to .screenshot-png-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/screenshot-7-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .section-24 {
+  background-color: #000000;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-HOW-TO-BUY-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.troll-run-by-html-to .section-25 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-10 {
+  left: 17px;
+  position: relative;
+  top: 17px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-23 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .untitled-design-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/untitled-design-2023-03-30t212906-738-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  position: relative;
+  top: 10px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-24 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-23 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+
+.troll-run-by-html-to .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+  width: 298px;
+}
+
+.troll-run-by-html-to .heading-24 {
+  left: 10px;
+  position: absolute;
+  top: 60px;
+}
+
+.troll-run-by-html-to .download-metamask-or-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+}
+
+.troll-run-by-html-to .section-26 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-11 {
+  left: 17px;
+  position: relative;
+  top: 17px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-25 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .untitled-design-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/untitled-design-2023-03-30t213620-680-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  position: relative;
+  top: 10px;
+  width: 138px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-26 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-25 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+
+.troll-run-by-html-to .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+  width: 275px;
+}
+
+.troll-run-by-html-to .heading-26 {
+  left: 10px;
+  position: absolute;
+  top: 60px;
+}
+
+.troll-run-by-html-to .have-BNB-in-your-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+}
+
+.troll-run-by-html-to .section-27 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-12 {
+  left: 17px;
+  position: relative;
+  top: 17px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-27 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .uniswap-webp-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/uniswap-2-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  position: relative;
+  width: 138px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-28 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .go-to-uniswap-wrapper {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+
+.troll-run-by-html-to .go-to-uniswap {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+}
+
+.troll-run-by-html-to .heading-27 {
+  left: 10px;
+  position: absolute;
+  top: 60px;
+}
+
+.troll-run-by-html-to .connect-to-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+}
+
+.troll-run-by-html-to .section-28 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-13 {
+  left: 17px;
+  position: relative;
+  top: 17px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-29 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .trollface-png-6 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/trollface-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-widget-30 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .switch-BNB-for-troll-wrapper {
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+
+.troll-run-by-html-to .switch-BNB-for-troll {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -7px;
+}
+
+.troll-run-by-html-to .heading-28 {
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .switch-BNB-for-TROLL-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 22px;
+  position: absolute;
+  top: -3px;
+}
+
+.troll-run-by-html-to .section-29 {
+  background-color: #ffffff;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-10 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-11 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-TOKENOMICS-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.troll-run-by-html-to .section-30 {
+  background-color: #000000;
+  border: 1px solid;
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-14 {
+  left: 2px;
+  position: relative;
+  top: 2px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-31 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .heading-29 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 255px;
+}
+
+.troll-run-by-html-to .heading-30 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  height: 34px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+}
+
+.troll-run-by-html-to .heading-31 {
+  left: 20px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+}
+
+.troll-run-by-html-to .liquidity-pool-wrapper {
+  left: 20px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .liquidity-pool {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+}
+
+.troll-run-by-html-to .div-elementor-column-27 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-widget-32 {
+  background-color: #ffffff;
+  left: 30px;
+  position: relative;
+  top: 30px;
+}
+
+.troll-run-by-html-to .troll-face-gif-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/troll-face-44-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.troll-run-by-html-to .overlap-group-wrapper {
+  background-color: #000000;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .overlap-group-3 {
+  position: relative;
+}
+
+.troll-run-by-html-to .div-elementor-15 {
+  background-color: #000000;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .heading-ROADMAP-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.troll-run-by-html-to .section-31 {
+  left: 10px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-widget-33 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.troll-run-by-html-to .dgzmk-fdd-3 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/dg1zm2k-71066fdd-7241-408d-8b65-34b0fe0373ec-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  top: 10px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-34 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-32 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+}
+
+.troll-run-by-html-to .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  height: 28px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.troll-run-by-html-to .phase-troll-and-wrapper {
+  height: 50px;
+  left: 12px;
+  position: absolute;
+  top: 57px;
+}
+
+.troll-run-by-html-to .phase-troll-and {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  height: 53px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  width: 256px;
+}
+
+.troll-run-by-html-to .phase-troll-wrapper {
+  left: 12px;
+  position: absolute;
+  top: 127px;
+}
+
+.troll-run-by-html-to .phase-troll {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 3px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+}
+
+.troll-run-by-html-to .div-elementor-widget-35 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .dgzmk-fdd-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/dg1zm2k-71066fdd-7241-408d-8b65-34b0fe0373ec-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  top: 10px;
+  transform: rotate(180deg);
+}
+
+.troll-run-by-html-to .section-32 {
+  background-color: #0000008f;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-33 {
+  height: 30px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+}
+
+.troll-run-by-html-to .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  height: 42px;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 148px;
+}
+
+.troll-run-by-html-to .div-elementor-16 {
+  height: 249px;
+  position: absolute;
+}
+
+.troll-run-by-html-to .list-item-strong-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 249px;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: 30px;
+  position: absolute;
+  top: -1px;
+  width: 342px;
+}
+
+.troll-run-by-html-to .section-33 {
+  background-color: #ffffff;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .div-elementor-shape-12 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+}
+
+.troll-run-by-html-to .div-elementor-shape-13 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-CONTACT-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.troll-run-by-html-to .troll-face-gif-4 {
+  background-image: url(https://cdn.animaapp.com/projects/65b1efbf6a87a05006909570/releases/65b21433ded9bf6dcc6064c0/img/troll-face-44-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-18 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-19 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .link-20 {
+  position: absolute;
+}
+
+.troll-run-by-html-to .section-34 {
+  background-color: #000000;
+  left: 0;
+  position: absolute;
+}
+
+.troll-run-by-html-to .heading-34 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 18px;
+  letter-spacing: 3px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.troll-run-by-html-to .heading-by-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  letter-spacing: 3px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+}
